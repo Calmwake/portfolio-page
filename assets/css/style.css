@@ -104,7 +104,11 @@
 
     }
 
-    .intro h2 {
+    .intro img {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 10px 10px;
+        margin-left: 25px;
         
     }
 
